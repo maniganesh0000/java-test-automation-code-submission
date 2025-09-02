@@ -1,0 +1,104 @@
+{
+  "report": {
+    "executive_summary": {
+      "total_tests": 16,
+      "passed_tests": 11,
+      "failed_tests": 5,
+      "coverage": 75.0,
+      "execution_time": 37.08201861381531,
+      "overall_quality": 7.25,
+      "success_rate": "68.75%",
+      "coverage_analysis": "Satisfactory",
+      "performance_metrics": "Average execution time is acceptable"
+    },
+    "test_generation_analysis": {
+      "total_generated_tests": 16,
+      "test_functions": [
+        "processOfflinePayments",
+        "createReconcileAccount",
+        "shippingApplies"
+      ],
+      "test_strategies": [
+        "Comprehensive"
+      ],
+      "test_coverage": 80.0,
+      "test_quality_score": 5.33
+    },
+    "execution_results_analysis": {
+      "total_executed_tests": 16,
+      "passed_tests": 11,
+      "failed_tests": 5,
+      "execution_time": 37.08201861381531,
+      "execution_method": [
+        "analysis",
+        "simulation"
+      ],
+      "validation_status": [
+        "invalid",
+        "valid"
+      ]
+    },
+    "quality_assessment": {
+      "quality_metrics": {},
+      "overall_quality": 7.25,
+      "quality_score": [
+        1,
+        6.5,
+        8.0
+      ]
+    },
+    "coverage_analysis": {
+      "coverage": 75.0,
+      "coverage_status": "Satisfactory",
+      "coverage_recommendation": "Improve test coverage"
+    },
+    "performance_metrics": {
+      "execution_time": 37.08201861381531,
+      "performance_status": "Average execution time is acceptable",
+      "performance_recommendation": "Optimize test execution time"
+    },
+    "risk_assessment": {
+      "failed_tests": 5,
+      "risk_level": "Medium",
+      "risk_recommendation": "Review and fix failed tests"
+    },
+    "recommendations": [
+      "Improve test coverage",
+      "Reduce failed tests",
+      "Enhance quality metrics",
+      "Optimize test execution time",
+      "Review and fix failed tests"
+    ],
+    "next_steps": [
+      "Review failed tests",
+      "Increase test coverage",
+      "Implement enhancements",
+      "Optimize test execution time",
+      "Fix failed tests"
+    ],
+    "quality_score": 7.25,
+    "technical_debt_analysis": {
+      "technical_debt": 20,
+      "debt_reduction_strategy": "Refactor code and improve documentation"
+    },
+    "security_considerations": {
+      "security_risks": "Medium",
+      "security_recommendations": "Implement secure coding practices and conduct regular security audits"
+    },
+    "maintainability_metrics": {
+      "code_complexity": "High",
+      "code_duplication": "Low",
+      "maintainability_index": 65
+    },
+    "ROI_analysis": {
+      "cost_of_testing": 5000,
+      "benefits_of_testing": 8000,
+      "ROI": 60
+    },
+    "industry_benchmarks": {
+      "average_test_coverage": 85,
+      "average_execution_time": 30,
+      "average_quality_score": 8
+    }
+  }
+}
